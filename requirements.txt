@@ -1,0 +1,12 @@
+torch
+torchvision
+timm
+pandas
+numpy
+scikit-learn
+streamlit
+fastapi
+uvicorn
+faiss-cpu
+sentence-transformers
+langchain
