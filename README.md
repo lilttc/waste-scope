@@ -52,13 +52,11 @@ waste_scope/
 
 ---
 
-## 🚀 Roadmap (7-day plan)
+## 🚀 Roadmap
 1. ✅ Repo skeleton + Food101 subset → EfficientNet baseline  
 2. Waste estimator (heuristic → OpenMMLab small model)  
 3. Knowledge base + RAG tips (CSV + FAISS)  
 4. API + Streamlit demo  
 5. Terraform infra + logging to S3/Athena  
 6. Polish (README GIF, metrics, limitations, costs)  
-7. Record demo + pitch  
-
 ---
